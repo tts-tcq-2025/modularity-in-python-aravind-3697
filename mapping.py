@@ -1,5 +1,5 @@
 # mappings
-from .constants import MAJOR_COLORS, MINOR_COLORS
+from constants import MAJOR_COLORS, MINOR_COLORS
 
 def color_pair_to_string(major_color, minor_color):
     return f'{major_color} {minor_color}'
