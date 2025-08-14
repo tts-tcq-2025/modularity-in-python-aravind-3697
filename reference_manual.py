@@ -1,4 +1,4 @@
-# printer
+# reference_manual
 from mapping import get_color_from_pair_number
 from constants import TOTAL_PAIRS
 
